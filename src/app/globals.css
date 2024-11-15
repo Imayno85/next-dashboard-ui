@@ -2,10 +2,24 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+
 .react-calendar {
   width: 100% !important;
   border: none !important;
-  font-family: "Inter", sans-serif !important;
+  font-family: "Poppins", sans-serif !important;
+}
+
+.rbc-calendar {
+  font-family: "Poppins", sans-serif !important;
+}
+
+.rbc-toolbar-label,
+.rbc-time-gutter.rbc-time-column,
+.rbc-day-slot,
+.rbc-event,
+.rbc-event-label {
+  font-family: "Poppins", sans-serif !important;
 }
 
 .react-calendar__navigation__label__labelText {

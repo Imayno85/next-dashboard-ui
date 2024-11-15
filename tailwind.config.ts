@@ -16,10 +16,10 @@ const config: Config = {
       colors: {
         lamaSky: "#C3EBFA",
         lamaSkyLight: "#EDF9FD",
-        lamaPurple: "#CFCEFF",
+        lamaPurple: "#C8B0EE",
         lamaPurpleLight: "#F1F0FF",
         lamaYellow: "#1DCAFF",
-        lamaYellowLight: "#FEFCE8",
+        lamaYellowLight: "#83BAF2",
       },
     },
   },
